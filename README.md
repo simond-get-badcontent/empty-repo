@@ -1,2 +1,2 @@
 # emty-repo
-Emty repo used for git cloning.
+Empty repo used for git cloning.
